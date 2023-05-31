@@ -1,0 +1,50 @@
+[
+    {
+        "id": "sillonGreen",
+        "articulo": "1",
+        "tipo": "sillon0",
+        "imagen": "./img/chairs/armchair-green-front.jpg",
+        "imagen1": "./img/chairs/armchair-green-perspective.jpg",
+        "imagen2": "./img/chairs/armchair-green-lateral.jpg",
+        "descripcion": "Sillon Green compuesta con estructura de madera estilizada, con acolchado de fibra de silicon recubierto con cuero begano color verde",
+        "nombre": "Sillon Green",
+        "precio": 90,
+        "fecha": "08/05/2022"
+    },
+    {
+        "id": "tabureteAlfa",
+        "articulo": "2",
+        "tipo": "taburete0",
+        "imagen": "./img/chairs/stool-alfa-front.jpg",
+        "imagen1": "./img/chairs/stool-alfa-perspective.jpg",
+        "imagen2": "./img/chairs/stool-alfa-lateral.jpg",
+        "descripcion": "Taburete Alfa de cuatro patas armado en madera con acabados de lujo de enchapados con bronce",
+        "nombre": "Taburete Alfa",
+        "precio": 45,
+        "fecha": "12/25/2022"
+    },
+    {
+        "id": "mesaRol",
+        "articulo": "3",
+        "tipo": "mesa0",
+        "imagen": "./img/chairs/table-rol-perspective.jpg",
+        "imagen1": "./img/chairs/table-rol-perspective.jpg",
+        "imagen2": "./img/chairs/table-rol-perspective.jpg",
+        "descripcion": "Ratonera Rol construida de cuatro patas en acero pintado con laca de color negro, soporte superio de madera caoba oscura con triple laqueado",
+        "nombre": "Ratonera Rol",
+        "precio": 75,
+        "fecha": "02/14/2023"
+    },
+    {
+        "id": "sillaOlga",
+        "articulo": "4",
+        "tipo": "silla1",
+        "imagen": "./img/chairs/chair-olga-perspective.jpg",
+        "imagen1": "./img/chairs/chair-olga-back.jpg",
+        "imagen2": "./img/chairs/chair-olga-lateral.jpg",
+        "descripcion": "Silla Olga construida en madera modelada con soporte transversal en las patas, malla de soporte en tiras de nylon, cojin de empuma de alta denisidad recubierto con lona verde",
+        "nombre": "Silla Olga",
+        "precio": 80,
+        "fecha": "03/03/2023"
+    }
+]
